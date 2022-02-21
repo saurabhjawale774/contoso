@@ -1,0 +1,15 @@
+{
+  "name": "saurabhapp",
+  "version": "1.0.0",
+  "description": "SDM end Module Exam ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "219079SaurabhJawale",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
